@@ -141,7 +141,8 @@ Licença: CC BY-NC-SA 4.0
 ## 👤 Autor
 
 **[Petrus Sampaio]**  
-[![LinkedIn](https://www.linkedin.com/in/petrus-sampaio-6b3b8924a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/petrus-sampaio-6b3b8924a/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/petrussampaio)
 
 ---
 
