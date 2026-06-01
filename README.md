@@ -140,9 +140,9 @@ Licença: CC BY-NC-SA 4.0
 
 ## 👤 Autor
 
-**[Seu Nome]**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/seu-usuario)
+**[Petrus Sampaio]**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/petrus-sampaio-6b3b8924a/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/petrussampaio)
 
 ---
 
